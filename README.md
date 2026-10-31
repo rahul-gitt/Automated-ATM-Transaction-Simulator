@@ -156,7 +156,7 @@ The SQLite database is created locally by the application. The `.gitignore` file
 ## ☁️ Deploy on Streamlit Community Cloud
 
 1. Push the project files to a GitHub repository.
-2. Open [Streamlit Community Cloud](https://automated-atm-transaction-simulator-jfe3oq5yuycm4yvdu6zark.streamlit.app/).
+2. Open [https://automated-atm-transaction-simulator-jfe3oq5yuycm4yvdu6zark.streamlit.app/](https://automated-atm-transaction-simulator-jfe3oq5yuycm4yvdu6zark.streamlit.app/).
 3. Sign in with GitHub and select **Create app**.
 4. Choose the repository and deployment branch.
 5. Set **Main file path** to `streamlit_app.py`.
